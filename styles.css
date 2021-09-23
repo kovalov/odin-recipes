@@ -8,4 +8,64 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+section {
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.link {
+}
+
+.header {
+  background-color: #3498db;
+}
+
+.list {
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+.title {
+  color: #fff;
+}
+
+.main {
+}
+
+.main__container {
+}
+
+.picture {
+  max-width: 800px;
+  margin-bottom: 1rem;
+}
+
+.picture__element {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.picture__description {
+}
+
+.ingridients {
+}
+
+.ingridients__title {
+}
+
+.ingridients__list {
+}
+
+.ingridients__element {
 }
